@@ -45,12 +45,6 @@
 <br/>
 <textarea name="detail" rows="15" cols="48" placeholder="Type in the details of your request" maxlength="2000"></textarea>
 <br/>
-<strong>Type of Volunteer</strong>
-<select class="form-control" style="width:auto" name="role" id="role">
-   	<option value="virtualSpecialist">Virtual Specialist</option>
-   	<option value="specialist">Specialist</option>
-    <option value="generalPractitioner">General Practitioner</option>
-</select>
 <br/>
 <strong>Date to Receive Aid</strong>
 <input type="Date" name="date">
